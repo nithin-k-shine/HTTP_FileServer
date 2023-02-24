@@ -16,7 +16,7 @@ upload files from your phone directly into your laptop’s directory without int
 
 <div align="center">
   
-  | ![](https://user-images.githubusercontent.com/72448713/221199261-dc2ff3b7-c75e-4903-a448-a968e3c78635.png) | 
+  | ![image](https://user-images.githubusercontent.com/72448713/221207548-e96257bb-837e-4a7d-806d-db9588d136ce.png) | 
   |:--:| 
   | *Accessing shared directory via your phone, connected to the same network* |
 
