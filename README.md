@@ -1,7 +1,9 @@
 # HTTP_FileServer
 A simple HTTP file server for high-speed data transfer between devices connected to the same network and a data server to store common files to be accessed by all devices in the network
 
-| ![](https://user-images.githubusercontent.com/72448713/221200770-dfd0c403-a0a9-43c5-841c-eca745615523.png) | 
+| <center>
+  ![](https://user-images.githubusercontent.com/72448713/221200770-dfd0c403-a0a9-43c5-841c-eca745615523.png) 
+  </center> | 
 |:--:| 
 | *Achitecture* |
 
