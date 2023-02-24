@@ -3,9 +3,9 @@ A simple HTTP file server for high-speed data transfer between devices connected
 
 <center>
   
-| ![](https://user-images.githubusercontent.com/72448713/221200770-dfd0c403-a0a9-43c5-841c-eca745615523.png) | 
-|:--:| 
-| *Achitecture* |
+  | ![](https://user-images.githubusercontent.com/72448713/221200770-dfd0c403-a0a9-43c5-841c-eca745615523.png) | 
+  |:--:| 
+  | *Achitecture* |
   
 </center>
 
@@ -16,16 +16,16 @@ upload files from your phone directly into your laptop’s directory without int
 
 <center>
   
-| ![](https://user-images.githubusercontent.com/72448713/221199261-dc2ff3b7-c75e-4903-a448-a968e3c78635.png) | 
-|:--:| 
-| *Accessing shared directory via your phone, connected to the same network* |
+  | ![](https://user-images.githubusercontent.com/72448713/221199261-dc2ff3b7-c75e-4903-a448-a968e3c78635.png) | 
+  |:--:| 
+  | *Accessing shared directory via your phone, connected to the same network* |
 
-  </center>
+</center>
 
 <center>
+  
+  | ![](https://user-images.githubusercontent.com/72448713/221199154-05784304-1f58-4362-a451-41b4a4afb3c3.png) | 
+  |:--:| 
+  | *Shared directory in your laptop* |
 
-| ![](https://user-images.githubusercontent.com/72448713/221199154-05784304-1f58-4362-a451-41b4a4afb3c3.png) | 
-|:--:| 
-| *Shared directory in your laptop* |
-
-  </center>
+</center>
