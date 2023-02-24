@@ -22,10 +22,10 @@ upload files from your phone directly into your laptop’s directory without int
 
 </center>
 
-<center>
+<div align="center">
   
   | ![](https://user-images.githubusercontent.com/72448713/221199154-05784304-1f58-4362-a451-41b4a4afb3c3.png) | 
   |:--:| 
   | *Shared directory in your laptop* |
 
-</center>
+</div>
