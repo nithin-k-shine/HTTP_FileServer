@@ -1,10 +1,9 @@
 # HTTP_FileServer
 A simple HTTP file server for high-speed data transfer between devices connected to the same network and a data server to store common files to be accessed by all devices in the network
 
-<p align="center">
-  <img width="660" height="500" src="https://user-images.githubusercontent.com/72448713/221200770-dfd0c403-a0a9-43c5-841c-eca745615523.png">
-  <em>image_caption</em>
-</p>
+| ![](https://user-images.githubusercontent.com/72448713/221200770-dfd0c403-a0a9-43c5-841c-eca745615523.png) | 
+|:--:| 
+| *Achitecture* |
 
 The HTTP protocol is used to share a directory in our laptop to all the devices in the network. After running the following python code, a port number will be displayed 
 in the terminal that you need to open in your phone’s browser along with the IP address of 
